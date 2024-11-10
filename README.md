@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SidharthBidikar
 - 👀 I’m interested in finding solutions to burning problems 
-- 🌱 I’m currently learning Prompt Engineering
-- 💞️ I’m looking to collaborate on building an AI Job Portal Application.
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on Data Analysis Projects !
 - 📫 How to reach me https://www.linkedin.com/in/sidharth-bidikar-868523190
 
 <!---
